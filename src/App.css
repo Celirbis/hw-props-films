@@ -1,0 +1,22 @@
+body {
+  background-color: #faf7f2;
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 80vw;
+  margin: 40px auto;
+}
+
+.FilmCard {
+  background-color: white;
+  width: 40%;
+  margin-bottom: 10px;
+}
+
+.card-body-stars {
+  list-style-type: none;
+  display: flex;
+}
